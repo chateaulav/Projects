@@ -59,10 +59,10 @@ The following diagrams show the general structure, dimensions, and overall desig
 ![Coop/Storage](CT-Main-Structure-Top.png)
 
 ### Coop/Storage Top View
-![Coop/Storage Top View](CT-Top-Structure(side\).png)
+![Coop/Storage Top View](CT-Top-Structure-side.png)
 
 ### Coop/Storage Side View
-![Coop/Storage Side View](CT-Top-Structure(storage\).png)
+![Coop/Storage Side View](CT-Top-Structure-storage.png)
 
 ### Coop/Storage with Walls
-![Coop/Storage with Walls](CT-Top-Structure(walls\).png)
+![Coop/Storage with Walls](CT-Top-Structure-walls.png)
